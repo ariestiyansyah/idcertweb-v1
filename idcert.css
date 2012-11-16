@@ -1,0 +1,49 @@
+/* ===============================================
+ * Indonesian Conputer Emergency Response Team 
+ *           http://cert.or.id/                     
+ * Website Developed by Rizky Ariestiyansyah
+ * =============================================== */
+
+body {margin:0px; background-color:#D8D8D8;}
+body,td {font-family:verdana,arial,sans-serif; font-size:11px; }
+h1,h2,h3,h4,h5,h6 {font-family:"Trebuchet MS",helvetica,sans-serif; color:#000000; letter-spacing:1px;  }
+h1 {font-size:22px;}
+h2 {font-size:20px;}
+h3 {font-size:18px;}
+h4 {font-size:16px;}
+h5 {font-size:14px;}
+h6 {font-size:14px;}
+blockquote {font-family:"Trebuchet MS",helvetica,sans-serif; color:#004A66; font-size:16px; font-style:italic; font-weight:bold; border-top:1px dashed #CCC; border-bottom:1px dashed #CCC; margin:10px; padding:30px 10px 30px 10px; text-align:center; background-color:#EEE; margin-left:0px; }
+
+#pageHeaderidcert { height:50px; line-height:50px; color:#000000; font-family:"Trebuchet MS",helvetica,sans-serif; font-size:24px; padding:10px 16px 10px 16px; background-color:#ffffff; border-bottom:1px solid #FFF; }
+#divBaseLinksidcert {height:30px; background-color:#760000;  border-top:1px solid #FFF; padding:0px 10px 0px 10px; line-height:30px; color:#FFF;}
+#divBaseLinksidcert a:link {color:#FFF; text-decoration:none;}
+#divBaseLinksidcert a:visited {color:#FFF; text-decoration:none;}
+#divBaseLinksidcert a:hover {color:#FFF; text-decoration:none;}
+#divBaseLinksidcert a:active {color:#FFF; text-decoration:none;}
+#containeridcert {margin:20px; background-color:#FFF;}
+#divPageContentidcert {border-top:3px solid #555555; border-bottom:3px solid #555555; padding:10px 0px 10px 0px;  }
+#navcontaineridcert { width: 160px; }
+#navcontaineridcert ul {margin-left: 0; padding-left: 0; list-style-type: none; font-family:verdana,arial,sans-serif; }
+#navcontaineridcert a { display: block; padding: 4px; width: 160px; background-color: #760000; border-bottom: 1px solid #FFF; }
+#navcontaineridcert a:link, #navlist a:visited {color: #FFF; text-decoration: none; }
+#navcontaineridcert a:hover {background-color: #336699; color: #fff; }
+#sideBarNewsidcert {}
+#sideBarNewsContentidcert {background-color:#EEE; padding:10px; }
+#newsHeaderidcert {height:22px; line-height:22px; color:#F3F3F3; font-family:"Trebuchet MS",helvetica,sans-serif; font-size:14px; padding:0px 5px 0px 5px; background-color:#760000;  border-bottom:1px solid #FFF; }
+
+.leftColumnidcert { padding:0p 5px 0px 5px; width:170px;}
+.rightColumnidcert {padding:0px 10px 10px 10px; border-left:1px dashed #CCC;}
+.subHeaderidcert {font-family:"Trebuchet MS",helvetica,sans-serif; color:#004A66; font-size:16px; letter-spacing:1px; font-weight:bold; margin:10px 0px 10px 0px; border-bottom:1px solid #004A66;}
+.noteidcert {font-weight:bold; color:#800000; font-style:italic; background-color: #FFF0B7; padding:5px; border:1px solid #FFB96C; }
+.newsItemidcert {margin-bottom:5px; font-size:9px; }
+.readNewsLinkidcert {margin-bottom:10px; font-size:9px; }
+
+/* styles untuk corner */
+b.rtopidcert, b.rbottomidcert {display:block;background: #D8D8D8}
+b.rtopidcert b, b.rbottomidcert b{display:block;height: 1px; overflow: hidden; background: #760000}
+b.r1idcert{margin: 0 5px}
+b.r2idcert{margin: 0 3px}
+b.r3idcert{margin: 0 2px}
+b.rtopidcert b.r4idcert, b.rbottomidcert b.r4idcert{margin: 0 1px;height: 2px}
+
